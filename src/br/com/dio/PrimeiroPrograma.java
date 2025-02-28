@@ -40,7 +40,6 @@ class Livro {
     public void setNumPaginas(Integer numPaginas) {
         this.numPaginas = numPaginas;
     }
-
     @Override
     public String toString() {
         return "Livro{" +
